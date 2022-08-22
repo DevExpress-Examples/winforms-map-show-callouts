@@ -1,4 +1,4 @@
-﻿Microsoft Visual Studio Solution File, Format Version 12.00
+Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "AddItemsManually", "AddItemsManually.vbproj", "{469F4708-53C9-4520-BE62-BB969046E6F9}"
 EndProject
