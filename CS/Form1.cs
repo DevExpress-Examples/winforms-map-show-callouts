@@ -18,7 +18,7 @@ namespace AddItemsManually {
 
             // Create a layer to load image tiles from OpenStreetMap.
             ImageLayer tileLayer = new ImageLayer();
-            tileLayer.DataProvider = new BingMapDataProvider();
+            tileLayer.DataProvider = new BingMapDataProvider() { BingKey = "Your Bing key here." };
             map.Layers.Add(tileLayer);
 
             // Create a layer to display vector items.
