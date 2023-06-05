@@ -20,7 +20,7 @@ To do this, follow the steps below:
 
 * To create a background image layer with a geographical map, create an [`ImageLayer`](https://docs.devexpress.com/WindowsForms/DevExpress.XtraMap.ImageLayer?p=netframework), add it to the [`MapControl.Layers`](https://docs.devexpress.com/WindowsForms/DevExpress.XtraMap.MapControl.Layers?p=netframework) collection, and initialize the layer's [`DataProvider`](https://docs.devexpress.com/WindowsForms/DevExpress.XtraMap.ImageLayer.DataProvider) with an appropriate [image provider](https://docs.devexpress.com/WindowsForms/115774/controls-and-libraries/map-control/map-image-data/image-tile-providers?p=netframework) or [vector tile provider](https://docs.devexpress.com/WindowsForms/401639/controls-and-libraries/map-control/vector-data/providing-data/vector-tile-providers?p=netframework). This example uses the [`BingMapDataProvider`](https://docs.devexpress.com/WindowsForms/DevExpress.XtraMap.BingMapDataProvider?p=netframework).
 
-## Files to Look At
+## Files to Review
 
 * [Form1.cs](./CS/Form1.cs) (VB: [Form1.vb](./VB/Form1.vb))
 
