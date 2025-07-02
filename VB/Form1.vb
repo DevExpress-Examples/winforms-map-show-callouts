@@ -17,7 +17,7 @@ Namespace AddItemsManually
             Me.Controls.Add(map)
             ' Create a layer to load image tiles from OpenStreetMap.
             Dim tileLayer As ImageLayer = New ImageLayer()
-            tileLayer.DataProvider = New BingMapDataProvider() With {.BingKey = "Your Bing key here."}
+            tileLayer.DataProvider = New AzureMapDataProvider() With {.AzureKey = "Your Bing key here."}
             map.Layers.Add(tileLayer)
             ' Create a layer to display vector items.
             Dim itemsLayer As VectorItemsLayer = New VectorItemsLayer()
