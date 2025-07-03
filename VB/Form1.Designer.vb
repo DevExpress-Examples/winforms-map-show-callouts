@@ -34,7 +34,7 @@ Namespace AddItemsManually
             Me.ClientSize = New System.Drawing.Size(826, 543)
             Me.Name = "Form1"
             Me.Text = "Form1"
-            AddHandler Me.Load, New System.EventHandler(AddressOf Me.Form1_Load)
+            Me.Load += New System.EventHandler(AddressOf Me.Form1_Load)
             Me.ResumeLayout(False)
         End Sub
 '#End Region
