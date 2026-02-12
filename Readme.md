@@ -36,7 +36,7 @@ To do this, follow the steps below:
 * [How to manually provide vector items from WKT](https://github.com/DevExpress-Examples/how-to-manually-provide-vector-items-from-wkt-t222638)
 * [How to manually generate map items for received GIS data](https://github.com/DevExpress-Examples/how-to-manually-generate-map-items-for-received-gis-data-t188443)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=winforms-map-show-callouts&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=winforms-map-show-callouts&~~~was_helpful=no)
 
